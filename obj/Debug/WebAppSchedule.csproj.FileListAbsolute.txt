@@ -1,0 +1,171 @@
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\ApplicationInsights.config
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\WebAppSchedule.dll.config
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\WebAppSchedule.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\WebAppSchedule.pdb
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Antlr3.Runtime.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\BootstrapMvc.Bootstrap3.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\BootstrapMvc.Bootstrap3Mvc5.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\BootstrapMvc.Core.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\BootstrapMvc.Mvc5.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\EntityFramework.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\EntityFramework.SqlServer.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\FluentValidation.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\FluentValidation.Mvc.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AI.Web.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Newtonsoft.Json.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.Helpers.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.Mvc.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.Optimization.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.Razor.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.WebPages.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\WebGrease.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\EntityFramework.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\EntityFramework.SqlServer.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\FluentValidation.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\FluentValidation.Mvc.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Newtonsoft.Json.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.Helpers.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.Mvc.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.Optimization.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.Razor.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.WebPages.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Antlr3.Runtime.pdb
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\bin\Microsoft.AI.Web.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\obj\Debug\WebAppSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\obj\Debug\WebAppSchedule.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule\WebAppSchedule\obj\Debug\WebAppSchedule.pdb
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\ApplicationInsights.config
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\WebAppSchedule.dll.config
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\WebAppSchedule.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\WebAppSchedule.pdb
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Antlr3.Runtime.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\BootstrapMvc.Bootstrap3.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\BootstrapMvc.Bootstrap3Mvc5.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\BootstrapMvc.Core.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\BootstrapMvc.Mvc5.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\EntityFramework.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\EntityFramework.SqlServer.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\FluentValidation.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\FluentValidation.Mvc.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AI.Web.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Newtonsoft.Json.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.Helpers.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.Mvc.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.Optimization.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.Razor.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.WebPages.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\WebGrease.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\EntityFramework.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\EntityFramework.SqlServer.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\FluentValidation.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\FluentValidation.Mvc.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Newtonsoft.Json.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.Helpers.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.Mvc.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.Optimization.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.Razor.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.WebPages.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Antlr3.Runtime.pdb
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\bin\Microsoft.AI.Web.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\obj\Debug\WebAppSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\obj\Debug\WebAppSchedule.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - Update the other steps later for GitHub\WebAppSchedule\obj\Debug\WebAppSchedule.pdb
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\ApplicationInsights.config
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\WebAppSchedule.dll.config
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\WebAppSchedule.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\WebAppSchedule.pdb
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Antlr3.Runtime.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\BootstrapMvc.Bootstrap3.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\BootstrapMvc.Bootstrap3Mvc5.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\BootstrapMvc.Core.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\BootstrapMvc.Mvc5.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\EntityFramework.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\EntityFramework.SqlServer.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\FluentValidation.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\FluentValidation.Mvc.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AI.Web.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Newtonsoft.Json.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.Helpers.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.Mvc.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.Optimization.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.Razor.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.WebPages.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\WebGrease.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\EntityFramework.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\EntityFramework.SqlServer.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\FluentValidation.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\FluentValidation.Mvc.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Newtonsoft.Json.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.Helpers.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.Mvc.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.Optimization.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.Razor.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.WebPages.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Antlr3.Runtime.pdb
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\bin\Microsoft.AI.Web.xml
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\obj\Debug\WebAppSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\obj\Debug\WebAppSchedule.dll
+C:\Users\Mike-321191\Documents\Visual Studio 2017\Projects\WebAppSchedule - new\WebAppSchedule\obj\Debug\WebAppSchedule.pdb

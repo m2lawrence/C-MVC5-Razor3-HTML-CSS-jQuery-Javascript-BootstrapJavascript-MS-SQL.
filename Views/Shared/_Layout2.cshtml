@@ -1,0 +1,13 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @Styles.Render("~/Content/css2") @*//name of bundle 2.*@
+    @Scripts.Render("~/bundles/stepsScripts")
+    @RenderSection("scripts", required: false)
+</head>
+<body class="ColourBkGrd">
+    @RenderBody()
+</body>
+</html>
